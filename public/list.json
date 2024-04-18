@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/photo-back-school-stationery-education-element-cartoon-white-background-3d-render-illustration_175994-5430.jpg?w=740"
+    },
+    {
+        "id":2,
+        "name":"Guide Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/books-arrangement-with-flower_23-2149891239.jpg?t=st=1713286717~exp=1713290317~hmac=84450db08139fb9bd63a93b2c163b3eec5f87e5262477da8df2bb9d9299fbc42&w=360"
+    },
+    {
+        "id":3,
+        "name":"Yoga Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-alarm-clock-time-read-concept_93675-114741.jpg?w=1060"
+    },
+    {
+        "id":4,
+        "name":"Food Recipe  Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/view-some-open-books_23-2147615118.jpg?t=st=1713286998~exp=1713290598~hmac=5466b9f2b9a39eb52261bdde658a0c036e4a1d676b48cafaffd63d0cb3237fdf&w=996"
+    },
+    {
+        "id":5,
+        "name":"Exam  Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":1000,
+        "category":"Exam",
+        "image":"https://www.shutterstock.com/shutterstock/photos/76681054/display_1500/stock-vector-bookshelf-vector-image-76681054.jpg"
+    },
+    {
+        "id":6,
+        "name":"Comedy Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/photo-back-school-stationery-education-element-cartoon-white-background-3d-render-illustration_175994-5430.jpg?w=740"
+    },
+    {
+        "id":7,
+        "name":"Sports Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":4523,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/educational-setting-library-bookshelf-back-school-stack-books-vertical-mobile-wallpaper_795881-31060.jpg?w=360"
+    },
+    {
+        "id":8,
+        "name":"Astrology Book",
+        "title":"Lorem ipsum dolor sit",
+        "price":5000,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-photo/numerology-collage-concept_23-2150061743.jpg?t=st=1713287312~exp=1713290912~hmac=45287ca6d882105215a9d6b7b943a158ddea2045089e46470dc5f70a76bb6750&w=1060"
+    }
+]
